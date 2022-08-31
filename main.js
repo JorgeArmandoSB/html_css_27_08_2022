@@ -6,7 +6,7 @@ let altura = 1.8;
 let soyEstudiante = true;
 let direcciones = null;
 let cambioRopa = undefined;
-let listaPasatiempos = ["leer" , "guitarra" , "video juegos" , "escucharmusica"];
+let listaPasatiempos = ["leer" , "guitarra" , "video juegos" , "escuchar musica"];
 let caracteristicasPc = {
     sistema: "windows 10 pro 64x",
     ram: 12,
